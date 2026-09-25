@@ -3,10 +3,13 @@
 A lightweight, high-performance Python detection engine designed to analyze `.eml` email source code for hidden keyword stuffing, Bayesian spam filter evasion, structural email obfuscation, and header authentication failures.
 
 
-<img width="1309" height="479" alt="EngineDetection table output" src="https://github.com/user-attachments/assets/29f47b89-9907-435d-b95c-6a7e2c212d24" />
+<img width="1146" height="241" alt="TableofDetections" src="https://github.com/user-attachments/assets/503ecfe7-446c-4a06-a370-33204df3274c" />
+
+--- 
 
 
-<img width="1332" height="229" alt="sample eml singe detection" src="https://github.com/user-attachments/assets/c929bdfd-2395-447f-ae92-00ac10702953" />
+<img width="1332" height="188" alt="Singel detection desription" src="https://github.com/user-attachments/assets/7b2c3866-9aaa-464f-85b5-ca6e0f6e7b97" />
+
 
 
 Built as a practical cybersecurity portfolio project, this engine focuses on **email source telemetry, MIME header parsing, HTML DOM analysis, heuristic detection logic, and analyst-friendly CLI alerting**.
@@ -118,7 +121,9 @@ Indicators: random_string:nyponavguxnsznv..., random_string:uxnfmxbgvhgsrpn...
 
 ### Summary Table
 
-<img width="1088" height="392" alt="summary table in green" src="https://github.com/user-attachments/assets/91b34b98-80af-43ab-94c1-2842b6fac4f9" />
+<img width="1146" height="241" alt="TableofDetections" src="https://github.com/user-attachments/assets/503ecfe7-446c-4a06-a370-33204df3274c" />
+
+
 
 
 ```text
