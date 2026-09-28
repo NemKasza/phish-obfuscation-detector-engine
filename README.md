@@ -193,7 +193,6 @@ eml-detection-engine/
 ├── data/
 │   └── samples/                 # Sample .eml files for testing
 ├── detector/
-│   ├── __init__.py
 │   └── rules.py                 # Core heuristic rules (auth headers, DOM, strings, URLs)
 ├── main.py                      # Recursive CLI runner, progress rendering, and scoring engine
 ├── README.md                    # Project documentation
